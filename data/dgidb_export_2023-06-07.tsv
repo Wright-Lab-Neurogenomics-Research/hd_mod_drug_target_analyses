@@ -1,0 +1,24 @@
+search_term	match_term	match_type	category	sources
+ALPK2	ALPK2	Definite	KINASE	IDG|dGene|Pharos
+ALPK2	ALPK2	Definite	SERINE THREONINE KINASE	GO|dGene
+FAN1	FAN1	Definite	ENZYME	HumanProteinAtlas
+FAN1	FAN1	Definite	DNA REPAIR	GO
+FAN1	FAN1	Definite	MYOTUBULARIN RELATED PROTEIN PHOSPHATASE	dGene
+HTT	HTT	Definite	DRUGGABLE GENOME	HingoraniCasas
+LIG1	LIG1	Definite	DRUGGABLE GENOME	HingoraniCasas
+LIG1	LIG1	Definite	DNA REPAIR	GO
+MLH1	MLH1	Definite	CLINICALLY ACTIONABLE	MskImpact|FoundationOneGenes|CarisMolecularIntelligence|Oncomine|Tempus
+MLH1	MLH1	Definite	DRUGGABLE GENOME	RussLampel|HopkinsGroom
+MSH3	MSH3	Definite	DNA REPAIR	GO
+MSH3	MSH3	Definite	CLINICALLY ACTIONABLE	FoundationOneGenes|Tempus
+PBX1	PBX1	Definite	CLINICALLY ACTIONABLE	FoundationOneGenes|CarisMolecularIntelligence
+PBX1	PBX1	Definite	TRANSCRIPTION FACTOR	Pharos
+PMS1	PMS1	Definite	DRUGGABLE GENOME	HopkinsGroom|RussLampel
+PMS1	PMS1	Definite	CLINICALLY ACTIONABLE	MskImpact|CarisMolecularIntelligence|Tempus
+PMS2	PMS2	Definite	CLINICALLY ACTIONABLE	MskImpact|FoundationOneGenes|CarisMolecularIntelligence|Oncomine|Tempus
+PMS2	PMS2	Definite	DRUGGABLE GENOME	RussLampel|HopkinsGroom
+RRM2B	RRM2B	Definite	DRUGGABLE GENOME	HingoraniCasas
+RRM2B	RRM2B	Definite	DNA REPAIR	GO
+RRM2B	RRM2B	Definite	ENZYME	Pharos
+TCERG1	TCERG1	Definite	TRANSCRIPTION FACTOR	Pharos
+TMEM119	TMEM119	Definite	TRANSCRIPTION FACTOR	Pharos
