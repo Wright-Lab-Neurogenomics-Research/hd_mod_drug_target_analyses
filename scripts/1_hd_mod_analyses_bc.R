@@ -91,8 +91,7 @@ omim_genemap_hd <- omim_genemap %>% filter(approved_gene_symbol %in% hd_mod_gwas
 omim_genemap_hd_select <- omim_genemap_hd %>% select(approved_gene_symbol, phenotypes)
 
 # Read in clinvar info
-clinvar <- fread("data/gene_specific_summary.txt", 
-                 na.strings="-")
+clinvar <- fread("data/gene_specific_summary.txt", na.strings="-")
 colnames(clinvar)[1] <- "gene"
 clinvar$Other_alleles <- clinvar$Total_alleles - clinvar$Alleles_reported_Pathogenic_Likely_pathogenic
 # - indicates no entry, therefore set to zero
